@@ -95,19 +95,16 @@
    <img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="LinkedIn" height="50" />  
 </a>
 
-<a href="https://www.instagram.com/ahmedtarek_2901">
+<a href="https://www.instagram.com/ahmedtawfik204">
   <img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" alt="Instagram" height="50" />  
 </a>
 
-<a href="https://www.facebook.com/AhmedTarek2901">
+<a href="https://www.facebook.com/profile.php?id=100005968600353">
    <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" alt="Facebook" height="50" />
 </a>
 
-<a href="https://x.com/tarek2003_ahmed">
-  <img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" alt="Twitter" height="50" /> 
-</a>
 
-<a href="ahmedtarek19672003@gmail.com" target = "_blank">
+<a href="ahmedtawfik2042003@gmail.com" target = "_blank">
   <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="Gmail" height="50" /> 
 </a>
 
