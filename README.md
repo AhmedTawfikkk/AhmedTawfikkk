@@ -60,9 +60,7 @@
 
 <h2 align = "center"> 👨‍💻 Technologies & Tools : </h2>
 <div align = "center">
- <a href="https://numpy.org/">
-<img  src="https://readme-components.vercel.app/api?component=logo&logo=Numpy&text=true&fill=36C2CE&animation=spin">
-</a>
+ 
 
 <a href="https://git-scm.com">
 <img  src="https://readme-components.vercel.app/api?component=logo&logo=Git&text=true&fill=ff0000&animation=spin">
