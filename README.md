@@ -11,7 +11,7 @@
 </h2>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=My+Name+is+AHMED+TAREK&font=Fira%20Code&center=true&width=440&height=45&weight=600&color=00ffff&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=My+Name+is+AHMED+TAWFIK&font=Fira%20Code&center=true&width=440&height=45&weight=600&color=00ffff&vCenter=true&size=22"></a>
 </p> 
 
 <p align="center">
@@ -21,7 +21,7 @@
 <h2 align="center">👨🏻‍💻 About Me:</h2>
 
 
-- :computer: I'm a Software Engineer & 3D-Artist
+- :computer: I'm a Backend Engineer
 - :student: I'm a CS student
 - :rocket: Always ready to collaborate for Web Projects
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
