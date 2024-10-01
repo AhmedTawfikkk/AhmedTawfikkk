@@ -1,108 +1,31 @@
-<p align="center">
-  <img height ="60%" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="60%">
+<h1 align="center">Hi 👋, I'm AhmedTawfik</h1>
+<h3 align="center">A passionate Backend from Egypt</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedtawfikkk&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedtawfikkk" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedtawfikkk" alt="ahmedtawfikkk" /></a> </p>
+
+- 🌱 I’m currently learning **Laravel 11**
+
+- 💬 Ask me about **PHP,Laravel**
+
+- 📫 How to reach me **ahmedmohamed2042003@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-tawfik-44a028307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-tawfik-44a028307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100005968600353" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100005968600353" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/ahmedtawfik204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ahmedtawfik204/" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/AhmedTawfik"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="AhmedTawfik" /></a></p><br><br>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedtawfikkk&show_icons=true&locale=en&layout=compact" alt="ahmedtawfikkk" /></p>
 
-<h2 align="center">
- Hi 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> !
-</h2>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedtawfikkk&show_icons=true&locale=en" alt="ahmedtawfikkk" /></p>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=My+Name+is+AHMED+TAWFIK&font=Fira%20Code&center=true&width=440&height=45&weight=600&color=00ffff&vCenter=true&size=22"></a>
-</p> 
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20From%20Egypt&font=Fira%20Code&center=true&width=440&height=45&weight=500&color=ff0000&vCenter=true&size=22"></a>
-</p> 
-
-<h2 align="center">👨🏻‍💻 About Me:</h2>
-
-
-- :computer: I'm a Backend Engineer
-- :student: I'm a CS student
-- :rocket: Always ready to collaborate for Web Projects
-- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
-- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
-
-<br/>  
-
-  
-
-  
-
-<br/>
-
-
-<h2 align = "center"> 👨‍💻 Programming Languages & Services : </h2>
-<div align ="center" >  
-<a href="https://www.php.org">
-<img  src="https://readme-components.vercel.app/api?component=logo&logo=php&text=false&fill=9ACD32&animation=spin">
-</a>
-
-<!--
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp">
-<img  src="https://readme-components.vercel.app/api?component=logo&logo=csharp&text=false&animation=spin">
-</a>
--->
-
-
-<a href="https://www.mysql.com">
-<img  src="https://readme-components.vercel.app/api?component=logo&logo=MySQL&text=false&fill=ffce00&animation=spin">
-</a>
-
-
-
-</div></td><td valign="top" width="33%">
-<br>
-
-<h2 align = "center"> 👨‍💻 Technologies & Tools : </h2>
-<div align = "center">
- 
-
-<a href="https://git-scm.com">
-<img  src="https://readme-components.vercel.app/api?component=logo&logo=Git&text=true&fill=ff0000&animation=spin">
-</a>
-
-<a href="https://github.com">
-<img  src="https://readme-components.vercel.app/api?component=logo&logo=Github&text=true&fill=black&animation=spin">
-</a>
-
-
-
-<h2 align = "center"> Github Stats </h2>  
-<div align="center">
-<table><tr><td valign="top" width="50%" >
-
-<img src="https://github-readme-stats.vercel.app/api?username=AhmedTawfikkk&show_icons=true&theme=jolly&count_private=true&hide_border=true&disable_animations=false" align="left" style="width: 200%" />
-
-</td><td valign="top" width="50%">
-
-<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedTawfikkk&theme=jolly&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-</div>
-<br/>  
-
-
-<h2 align="center">Connect with me  </h2>
-<div align="center" >
- <a href="https://www.linkedin.com/in/ahmed-tawfik-44a028307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-   <img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="LinkedIn" height="50" />  
-</a>
-
-<a href="https://www.instagram.com/ahmedtawfik204">
-  <img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" alt="Instagram" height="50" />  
-</a>
-
-<a href="https://www.facebook.com/profile.php?id=100005968600353">
-   <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" alt="Facebook" height="50" />
-</a>
-
-
-<a href="ahmedtawfik2042003@gmail.com" target = "_blank">
-  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="Gmail" height="50" /> 
-</a>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedtawfikkk&" alt="ahmedtawfikkk" /></p>
