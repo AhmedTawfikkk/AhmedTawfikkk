@@ -17,7 +17,7 @@
 
 
 
-### 🚀 Talking about Personal Stuffs:
+### 🚀 About Me:
 - 🎓 CS Graduate  
 - 💻 Software Engineer with expertise in system design and Business Analysis
 - 🧠 Highly skilled Back-End Developer specializing in Laravel & Core PHP
