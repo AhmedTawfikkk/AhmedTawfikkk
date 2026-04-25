@@ -21,9 +21,9 @@
 ### 🚀 About Me
 - 🎓 CS Graduate  
 - 💻 Software Engineer with expertise in system design and Business Analysis
-- 🧠 Highly skilled Back-End Developer specializing in Laravel & Core PHP
-- 🌱 Currently working on my graduation project (solar panel tracking system)
-- 🤝 Love contributing to tech communities and working on backend projects
+- 🧠 Highly skilled FullStack Developer specializing in Asp.net & Angular
+- 🌱 Currently working on my ITI graduation project (E-Learning Platform)
+- 🤝 Love contributing to tech communities and working on FullStack projects
 - ⚡ Enjoy tech meetups and conferences  
 
 
