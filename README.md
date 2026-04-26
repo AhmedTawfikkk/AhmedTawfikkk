@@ -8,15 +8,10 @@
 </p>
 
 <p align="left">
-
-
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+Backend+Engineer&font=Fira+Code&center=true&width=540&height=45&weight=600&color=ff0000&vCenter=true&size=20">
   </a>
 </p>
-
-
-
 
 ### 🚀 About Me
 - 🎓 CS Graduate  
@@ -26,57 +21,73 @@
 - 🤝 Love contributing to tech communities and working on FullStack projects
 - ⚡ Enjoy tech meetups and conferences  
 
-
 </p>
 </div>
 
 ---
-### 🛠️Tech Stack
 
+### 🛠️ Tech Stack
 
-<!-- Float the GIF to the right without wrapping it in a center div -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kiran1689/kiran1689/blob/main/Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kiran1689/kiran1689/blob/main/Skills_Animation_White.gif">
   <img align="right" width="340" alt="Skills GIF" src="https://github.com/Kiran1689/kiran1689/blob/main/Skills_Animation_White.gif">
 </picture>
 
-<!-- Programming Languages Section -->
 #### 👨‍💻 Tools & Technologies
+
 <p align="left">
-  <a href="https://www.php.net/docs.php"><img src="https://readme-components.vercel.app/api?component=logo&logo=php&text=true&fill=black&animation=spin"></a>
-   <a href="https://laravel.com"><img src="https://readme-components.vercel.app/api?component=logo&logo=laravel&text=true&fill=FF2D20&animation=spin"></a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp"><img src="https://readme-components.vercel.app/api?component=logo&logo=csharp&text=1&fill=044F88&&animation=spin"></a><br/> <br/>
-   <a href="https://www.python.org"><img src="https://readme-components.vercel.app/api?component=logo&logo=Python&text=true&fill=green&animation=spin"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://readme-components.vercel.app/api?component=logo&logo=html5&text=true&fill=ffce00&animation=spin"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://readme-components.vercel.app/api?component=logo&logo=css3&text=true&fill=3C3F41&animation=spin"></a><br/> <br/>
-  <a href="https://www.mysql.com"><img src="https://readme-components.vercel.app/api?component=logo&logo=mysql&text=true&fill=00758F&animation=spin"></a>
-  <a href="https://git-scm.com"><img src="https://readme-components.vercel.app/api?component=logo&logo=Git&text=true&fill=F1502F&animation=spin"></a>
-  <a href="https://github.com"><img src="https://readme-components.vercel.app/api?component=logo&logo=Github&text=true&fill=4B0082&animation=spin"></a>
-  
+
+**🔤 Languages**
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+**🎨 Frontend Development**
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**⚙️ Backend Development**
+
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+**🗄️ Database**
+
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+**🔧 Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 </p>
 
-<!-- Add a clearfix to stop floating -->
 <div style="clear: right; margin-top: -10px;"></div>
-
 
 ---
 
 ### 📊 GitHub Stats
-<!-- Your GitHub Stats section here -->
 
 <p align="center">
-  
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedTawfikkk&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AhmedTawfikkk&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ahmed's GitHub Stats" />
-
-
 </p>
 
-
-
 ---
+
 ### 📬 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmedtawfik204"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" height="50"></a>
